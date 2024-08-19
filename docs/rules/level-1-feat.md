@@ -1,5 +1,5 @@
 # Level 1 Feat
-These feats have been taken directly from the new Player's Handbook (2024). You may choose any feat from this list.
+These feats have been taken directly from the new Player's Handbook (2024). You may choose any feat from this list at level 1 during character creation.
 
 ## Alert
 You gain the following benefits:

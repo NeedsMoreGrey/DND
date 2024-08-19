@@ -1,35 +1,11 @@
-<div class="grid cards" markdown>
+# Welcome to Endur
 
--   :fontawesome-solid-globe:{ .lg .middle } __Rules__
+Endur is a large, high-magic, low-tech, everchanging world. The world is in a renaissance and people are calling it the Prosperous Age, recovering from times that even the Demi Gods refuse to speak of. 
 
-    ---
+Towns are growing, travel is the safest its been in memory, and the world is expanding as it seeks to learn the mysteries of its own land. 
 
-    House rules, clarifications, etc
+What is the wandering mist? Where did the giant rends in the earth come from? What is in the Maelstrom? Why are Elven lifespans getting shorter? Who shattered the moon? There is so much that we do not know.
 
-    [:octicons-arrow-right-24: Getting started](#)
+!!! note "Rule changes"
 
--   :fontawesome-solid-globe:{ .lg .middle } __Locations__
-
-    ---
-
-    About the places within Endur
-
-    [:octicons-arrow-right-24: Reference](#)
-
--   :fontawesome-solid-user:{ .lg .middle } __NPCs__
-
-    ---
-
-    About the people in Endur
-
-    [:octicons-arrow-right-24: Customization](#)
-
--   :material-scale-balance:{ .lg .middle } __Lore__
-
-    ---
-
-    Customs, backstory, and deeper lore for Endur
-
-    [:octicons-arrow-right-24: License](#)
-
-</div>
+    Some rules have been introduced or changed. Please consult the [rules](/rules) section for all the rules that differ from previous campaigns and/or 2014 D&D rules.

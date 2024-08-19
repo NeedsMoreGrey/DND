@@ -27,7 +27,7 @@ To help root the world and to help you understand the value of the money you gai
 | Wealthy      | 8 gp          | 2,000 gp      |
 | Aristocratic | 20 gp minimum | 5,000 gp      |
 
-## Spending Money
+## Recurring Costs
 You will need to spend money as time passes. If you choose to live modestly at the Institute for a [span](/calendar) (12 days), you will need to spend 12 gp to do so. similarly, if you travel from Heresborough to Theresham and the journey takes a span (12 days), you will need to pay 24 gp to travel modestly.  
 
 However, instead of trying to plan ahead and manage resources such as ration, you will instead pay *after* the time has been completed to save on excessive micromanaging.

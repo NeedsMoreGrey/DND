@@ -20,7 +20,7 @@ You gain the following benefits:
 **Battle Medic**  
 If you have a Healer's Kit, you can expend one use of it and tend to a creature within 5 feet of yourself as a Utilize action. That creature can expend one of its Hit Point Dice, and you then roll that die. The creature regains a number of Hit Points equal to the roll plus your Proficiency Bonus.
 
-**Healing Rerolls**
+**Healing Rerolls**  
 Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat's Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll.
 
 !!! note 
@@ -47,7 +47,7 @@ When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck
 You gain the following benefits:
 
 **Two Cantrips**  
-You learn two cantrips of your choice from the Cleric, Druid, or Wizard spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).
+You learn two cantrips of your choice from the [Cleric](https://dnd5e.wikidot.com/spells:cleric), [Druid](https://dnd5e.wikidot.com/spells:druid), or [Wizard](https://dnd5e.wikidot.com/spells:wizard) spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).
 
 **Level 1 Spell**  
 Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have.
@@ -79,7 +79,7 @@ You gain the following benefits:
 **Enhanced Unarmed Strike**  
 When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d4 plus your Strength modifier instead of the normal damage of an Unarmed Strike.
 
-**Damage Rerolls**
+**Damage Rerolls**  
 Whenever you roll a damage die for your Unarmed Strike, you can reroll the die if it rolls a 1, and you must use the new roll.
 
 **Improvised Weaponry**  

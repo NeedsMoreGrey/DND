@@ -4,6 +4,8 @@
 *Head Master, Ath'relin Institute of Mastery, She/Her, Elf*  
 After an injury forced her to retire from adventuring Vaille took over the family business of running the Institute of Mastery. While many would describe her as personable, she rules the Institute with an iron fist, even into her old age.
 
+<img src="/images/nZgep5p.jpg" style="width:300px;border-radius:3px;"> 
+
 ## Other Faculty
 The masters of the Ath'relin Institute are often picked from their own alumni, some only teaching for a scant couple of years before returning to the adventuring life. Head Master Vaille 
 

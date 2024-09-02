@@ -2,9 +2,7 @@
 
 !!! note "Rule changes (2 SEP 2024)"
 
-    Added information on the local sport, [ravelling](lore/ravelling/), added information regarding Aasimar to the [species](lore/species) page, updated cost of living in the in [living costs](money/living-costs/) page, and updated the rules in regards to [resting](rules/resting).
-
-![](../images/endur.jpg)
+    Added information on the local sport, [ravelling](lore/ravelling/), added information regarding some of the playable [species](lore/species), updated cost of living in the in [living costs](money/living-costs/) page, and updated the rules in regards to [resting](rules/resting).
 
 Demi Gods rule in the stead of the Two-Faced Gods that came before them. They are capricious, arrogant, and occasionally prone to visit. 
 

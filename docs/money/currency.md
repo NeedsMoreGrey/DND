@@ -1,5 +1,5 @@
 # Currency
-Currency come in the forms of long thin ingots with a depression/divot halfway down ingot. The depression in the center of the ingot allows them to be broken in half, which is used in a number of customs but prevents it from being used as currency. 
+Currency come with a depression/divot halfway down ingot. The depression in the center allows them to be broken in half, which is used in a number of customs but prevents it from being used as currency. 
 
 #### Platinum Marks (10 Rounds)
 Worth ten gold rounds, marks are the largest denomination of coin, these are mostly used by nobles and royalty.

@@ -2,7 +2,7 @@
 ## Gaelath Illianas  
 *Town Maer of Anbridge, Elf, He/Him*  
 Maer of Anbridge and a member of the nobility. Gaeleth maintains an air of  Unsurprisingly a staunch supporter of Elves regaining their long lifespans and has proded.
-## Tolman Dewfoot
+## Tolman Dewfoot  
 *Priest, Hafling, He/Him*
 An affable priest who runs the church nearest to Ath'relin Institute, and a devout follower of Gheld (Demi god of New Life). He tends to many followers of many religions, but often than not by simply lending an ear. 
 ## Elsabel Caesuri  

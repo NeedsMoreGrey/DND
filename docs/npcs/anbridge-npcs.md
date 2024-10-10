@@ -3,13 +3,13 @@
 *Town Maer of Anbridge, Elf, He/Him*  
 Maer of Anbridge and a member of the nobility. Gaeleth maintains an air of  Unsurprisingly a staunch supporter of Elves regaining their long lifespans and has proded.
 ## Tolman Dewfoot  
-*Priest, Hafling, He/Him*
+*Priest, Hafling, He/Him*  
 An affable priest who runs the church nearest to Ath'relin Institute, and a devout follower of Gheld (Demi god of New Life). He tends to many followers of many religions, but often than not by simply lending an ear. 
 ## Elsabel Caesuri  
 *Silver Song Guild Leader, Dwarf, (She/They)*  
 Who is better versed in their own good qualities than a bard? Small surprise that song after song under their belt, there was a surplus of demand for their services. And so they franchised. Elsabel takes an aggressive cut, but there is none better to partner with if you need to make a name for yourself.  
 ## Stormvane Ildri  
-*Firehearts Guild Scout, Aasimar, She/Her*
+*Firehearts Guild Scout, Aasimar, She/Her*  
 Stormvane is a hero's hero, slaying monsters with a smile on her face with a group of her best friends. As a member of the Firehearts she helps them recruit during her downtime.  
 ## Talmor Stonescour  
 *Stirling Shield Guild Scout, Goliath, (He/Him)*  

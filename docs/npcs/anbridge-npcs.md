@@ -19,4 +19,4 @@ Talmor is plain spoken, fair, and immovable once he's made up his mind. But the 
 Have some questionably acquired goods? Need something unavailable to the general public? Or perhaps some illicit information that you are struggling to to learn? The velvet fold are your best call. If you can get an introduction to Castion, that is.    
 ## Derth Calanthis  
 *Swifthand Representative, Human, He/Him*  
-Crime is everywhere and not everyone is cut out to be a Hero. Derth is there to find those that fall between the cracks and draw them into the darkness to reap the benefits of the criminal underworld. The Swifthands are masters of the subtle arts of thievery, blackmail, and breaking legs. But Derth would never be caught doing any of those things. He is *very* civilised.
+Crime is everywhere and not everyone is cut out to be a Hero. Derth is there to find those that fall between the cracks and draw them into the darkness to reap the benefits of the criminal underworld. The Swifthands are masters of the subtle arts of thievery, blackmail, and breaking legs. But Derth would never be caught doing any of those things. He is *very* civilised.  

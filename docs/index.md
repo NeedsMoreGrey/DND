@@ -1,8 +1,8 @@
 # Welcome to Endur
 
-!!! note "10 Oct 2024"
+!!! note "13 Nov 2024"
 
-    Added shops and downtime
+    Added cart and base
 
 Demi Gods rule in the stead of the Two-Faced Gods that came before them. They are capricious, arrogant, and occasionally prone to visit. 
 
